@@ -8,3 +8,4 @@ bro ewww
 its me zainab maqbool
 we are learning github
 IST BRANCH
+resolved conflicts
